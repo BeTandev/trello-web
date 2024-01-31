@@ -43,7 +43,7 @@ module.exports = {
     'object-curly-spacing': [1, 'always'], // phải mở có khoảng trống khi khởi tạo 1 object
     'indent': ['warn', 2], // cảnh cáo thụt lùi code trong project, mỗi lần tab thì thụt lùi 2
     'semi': [1, 'never'], // báo những noi có dấu chấm phẩy cuối dòng
-    'quotes': ['error', 'single'], // báo những nơi dùng dấu "", chỉ dùng dấu ''
+    // 'quotes': ['error', 'single'], // báo những nơi dùng dấu "", chỉ dùng dấu ''
     'array-bracket-spacing': 1, // báo những nơi có thừa dấu cách trong array
     'linebreak-style': 0,
     'no-unexpected-multiline': 'warn', // báo những nơi dùng cú pháp lạ
